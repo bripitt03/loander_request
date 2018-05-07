@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_reference_1" label="Requested for" language="en" table="x_snc_loaner_reque_loaner_reqeust">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_reference_1</element>
+            <help/>
+            <hint/>
+            <label>Requested for</label>
+            <language>en</language>
+            <name>x_snc_loaner_reque_loaner_reqeust</name>
+            <plural>Requested for</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-07 17:15:36</sys_created_on>
+            <sys_id>459ea4bfa5f513007f442e0f3c76e95b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requested for</sys_name>
+            <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">8b0e10bba5f513007f442e0f3c76e992</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">8b0e10bba5f513007f442e0f3c76e992</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_loaner_reque_loaner_reqeust_u_reference_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-07 17:15:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
