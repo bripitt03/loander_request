@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_loaner_reque.loaner_reqeust_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>loaner_reqeust_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-05-07 16:16:46</sys_created_on>
+        <sys_id>831120fba5f513007f442e0f3c76e9ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_loaner_reque.loaner_reqeust_user</sys_name>
+        <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">8b0e10bba5f513007f442e0f3c76e992</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">8b0e10bba5f513007f442e0f3c76e992</sys_scope>
+        <sys_update_name>sys_user_role_831120fba5f513007f442e0f3c76e9ae</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-05-07 16:16:46</sys_updated_on>
+    </sys_user_role>
+</record_update>
